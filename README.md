@@ -1,241 +1,184 @@
 # Hi, I'm Vinodh Kumar P 👋
 
-### Data Analyst | Data Science & Analytics | Python | SQL | Power BI
+## Data Analyst | Python | SQL | Power BI | Statistics | Machine Learning
 
-I am an aspiring **Data Analyst** with a strong foundation in **Python, SQL, statistics, data visualization, and machine learning**, combined with hands-on experience in backend application development using Django.
-
-I enjoy working across the complete data lifecycle, from **data collection and SQL-based extraction to data cleaning, exploratory data analysis, visualization, statistical analysis, and machine learning**. My goal is to transform raw data into meaningful insights that can support better business and operational decisions.
-
-Currently, I am pursuing a **Post-Graduate Program in Data Science, Analytics & GenAI at Imarticus Learning**, while strengthening my practical skills through data analytics projects, machine learning experiments, and real-world application development.
-
----
-
-## 🎯 Current Focus
-
-* 📊 **Data Analytics:** EDA, data cleaning, feature engineering, statistical analysis, and business insights
-* 🐍 **Python for Data:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-* 🗄️ **SQL & Databases:** Query optimization, joins, aggregations, subqueries, CTEs, and relational database design
-* 📈 **Business Intelligence:** Power BI dashboards, KPIs, data storytelling, and visualization
-* 🤖 **Machine Learning:** Regression, classification, clustering, ensemble methods, and model evaluation
-* 🧠 **Deep Learning & NLP:** Neural networks, RNNs, tokenization, text processing, and Generative AI fundamentals
-* ⚙️ **Data Applications:** Building Django-based applications that collect, manage, and process structured data
+<p align="left">
+  <a href="https://github.com/vkvinodhkumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/vinodh-kumar-4b945931b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:vkvinodhkumar7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 🧰 Technical Skills
+## 👨‍💻 About Me
 
-### Programming
+I am an aspiring **Data Analyst** with a strong foundation in **Python, SQL, statistics, data visualization, and machine learning**.
 
-`Python` `SQL` `C++` `Java` `JavaScript`
+I enjoy transforming raw and structured data into **clean datasets, meaningful visualizations, analytical insights, and data-driven recommendations**.
 
-### Data Analytics
+My core analytical workflow includes:
 
-`Pandas` `NumPy` `EDA` `Data Cleaning` `Feature Engineering` `Statistics`
+**Data Extraction → Data Cleaning → EDA → Statistical Analysis → Visualization → Insight Generation → Business Decision Support**
 
-### Data Visualization & BI
+I also have hands-on experience developing **Django and MySQL-based applications**, providing practical experience with structured data, relational databases, and data-driven systems.
 
-`Power BI` `Tableau` `Matplotlib` `Seaborn` `Chart.js`
-
-### Machine Learning
-
-`Scikit-Learn` `Regression` `Classification` `Decision Trees` `Random Forest` `Gradient Boosting` `K-Means` `Hierarchical Clustering`
-
-### Deep Learning & AI
-
-`Neural Networks` `RNN` `NLP` `Tokenization` `Generative AI`
-
-### Databases
-
-`MySQL` `SQL` `Relational Database Design` `Query Optimization`
-
-### Development
-
-`Django` `Flask` `Bootstrap` `HTML5` `CSS3`
-
-### Tools & Platforms
-
-`Git` `GitHub` `Jupyter Notebook` `VS Code` `MySQL Workbench` `Power BI`
+Currently, I am pursuing a **Post-Graduate Program in Data Science, Analytics & GenAI at Imarticus Learning** and building practical projects to strengthen my analytics, machine learning, and problem-solving skills.
 
 ---
 
-# 📊 Featured Data Projects
+# 🎯 Core Data Analytics Skills
+
+### 📊 Data Analysis
+- Exploratory Data Analysis
+- Data Cleaning
+- Data Transformation
+- Feature Engineering
+- Descriptive Statistics
+- Correlation Analysis
+- Outlier Analysis
+- Data Quality Analysis
+
+### 🗄️ SQL & Databases
+- Data Extraction
+- Joins
+- Aggregations
+- Subqueries
+- CTEs
+- Window Functions
+- CASE Statements
+- Query Optimization
+- Relational Database Design
+
+### 📈 Business Intelligence
+- Power BI
+- Dashboard Development
+- KPI Analysis
+- Data Storytelling
+- Interactive Visualization
+- Business Performance Analysis
+
+### 🤖 Machine Learning
+- Regression
+- Classification
+- Clustering
+- Decision Trees
+- Random Forest
+- Gradient Boosting
+- K-Means
+- Feature Selection
+- Model Evaluation
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+## Python Data Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+</p>
+
+## Business Intelligence
+
+<p align="left">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+</p>
+
+## Databases
+
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+## Development & Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+</p>
+
+---
+
+# 📊 Featured Projects
 
 ## 🚨 Crowd Density Prediction & Optimization
 
-**Python | Pandas | Scikit-Learn | Power BI | Machine Learning**
+**Python · Pandas · NumPy · Scikit-Learn · Power BI · Machine Learning**
 
-A machine learning project focused on predicting crowd density using multiple real-world crowd and movement indicators.
+A data analytics and machine learning project focused on analyzing and predicting crowd density using event, attendance, movement, seating, and crowd-related data.
 
-### Key Work
+### Objective
 
-* Combined and analyzed multiple datasets containing **seat, movement, event, and attendance information**
-* Performed data preprocessing and exploratory data analysis
-* Selected relevant predictive features based on data relationships and domain relevance
-* Applied feature scaling using `StandardScaler`
-* Compared multiple machine learning models
-* Built a predictive pipeline for estimating crowd density
-* Developed a **Power BI dashboard** for visualizing crowd patterns and operational metrics
-
-### Models Explored
-
-* Linear Regression
-* Decision Tree
-* Random Forest
-* Gradient Boosting
-* XGBoost
-
-**Primary learning:** How structured data, feature selection, statistical relationships, and machine learning can be combined to solve operational problems.
-
----
-
-# 🏫 EduFlow - School Management System
-
-**Django | Python | MySQL | HTML | CSS | Bootstrap | Chart.js**
-
-A full-stack school management platform designed to digitize and centralize institutional workflows.
-
-### Key Features
-
-* Role-based authentication for administrators, principals, teachers, students, and parents
-* Student admission workflow
-* Automated admission number generation
-* Student and parent account creation
-* Attendance management
-* Homework management
-* Examination and marks management
-* Student result and ranking analysis
-* Class-wise and exam-wise performance analytics
-* Interactive dashboards and data visualization
-* MySQL-backed relational database architecture
-
-The project provided practical experience in designing systems where **transactional data can later be transformed into analytical information**.
-
----
-
-# 💄 Aayul Azhagu Academy
-
-**Django | Python | SQL | HTML | CSS | Bootstrap**
-
-A production-oriented educational web platform developed for a cosmetic science training organization.
+Analyze crowd-related data, identify important factors associated with crowd density, develop a predictive model, and present operational insights through visualization.
 
 ### Key Work
 
-* Developed dynamic Django-based web pages
-* Implemented database-driven content
-* Built course and program management functionality
-* Integrated student reviews and media galleries
-* Designed responsive user interfaces
-* Deployed the application to a cloud hosting environment
+- Integrated multiple structured datasets
+- Performed data cleaning and preprocessing
+- Conducted exploratory data analysis
+- Analyzed feature distributions and relationships
+- Performed correlation analysis
+- Selected relevant predictive variables
+- Applied feature scaling using `StandardScaler`
+- Trained and compared multiple machine learning models
+- Developed a predictive workflow
+- Built a Power BI dashboard for operational analysis
 
----
+### Models Evaluated
 
-# 📚 Currently Learning
+| Model | Application |
+|---|---|
+| Linear Regression | Baseline prediction |
+| Decision Tree | Non-linear relationships |
+| Random Forest | Ensemble prediction |
+| Gradient Boosting | Boosted prediction |
+| XGBoost | Gradient boosting comparison |
 
-```text
-Python
-   ↓
-NumPy + Pandas
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-Statistics
-   ↓
-SQL
-   ↓
-Power BI
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-NLP
-   ↓
-Generative AI
-```
-
-I am particularly interested in understanding **why a model works**, not simply how to implement it.
-
----
-
-# 📈 My Data Analytics Workflow
+### Analytics Pipeline
 
 ```text
 Raw Data
-   │
-   ▼
-Data Collection
-   │
-   ▼
-SQL / Python
-   │
-   ▼
+    ↓
+Data Integration
+    ↓
 Data Cleaning
-   │
-   ▼
+    ↓
 Exploratory Data Analysis
-   │
-   ▼
+    ↓
 Statistical Analysis
-   │
-   ▼
-Feature Engineering
-   │
-   ▼
-Visualization
-   │
-   ▼
+    ↓
+Feature Selection
+    ↓
+Feature Scaling
+    ↓
 Machine Learning
-   │
-   ▼
-Business Insights
-   │
-   ▼
-Decision Making
-```
-
----
-
-# 🧠 Areas of Interest
-
-* Data Analytics
-* Business Intelligence
-* Data Science
-* Machine Learning
-* Predictive Analytics
-* Natural Language Processing
-* Generative AI
-* Data Engineering fundamentals
-* Backend systems and data-driven applications
-
----
-
-# 🎓 Education
-
-**Post-Graduate Program in Data Science, Analytics & GenAI**
-Imarticus Learning | 2026 - Present
-
-**Bachelor of Computer Applications (BCA)**
-Guru Nanak College (Autonomous) | 2023 - 2026
-
----
-
-# 🌐 Portfolio
-
-🚀 **Portfolio:**
-https://vinodh-kumar-portfolio.onrender.com
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/vinodh-kumar-4b945931b
-
-📧 **Email:**
-[vkvinodhkumar7@gmail.com](mailto:vkvinodhkumar7@gmail.com)
-
----
-
-# 🤝 Let's Connect
-
-I am interested in opportunities involving **Data Analytics, Business Intelligence, Data Science, Machine Learning, and data-driven application development**.
-
-I am continuously building projects that combine **programming + analytics + business understanding** to solve practical problems.
+    ↓
+Prediction
+    ↓
+Power BI Dashboard
+    ↓
+Operational Insights
