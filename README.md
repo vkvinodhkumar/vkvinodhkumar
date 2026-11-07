@@ -237,7 +237,6 @@ Existing MySQL Database
 
 ## 02. 🚨 Crowd Density Prediction & Optimization
 
-## 01. 🚨 Crowd Density Prediction & Optimization
 
 ### `Python` · `Pandas` · `Scikit-Learn` · `Power BI` · `Machine Learning`
 
@@ -303,7 +302,7 @@ Operational Insights
 
 ---
 
-## 02. 🏫 EduFlow — School Management System
+## 03. 🏫 EduFlow — School Management System
 
 ### `Python` · `Django` · `MySQL` · `Bootstrap` · `Chart.js`
 
@@ -357,7 +356,7 @@ Student / Academic Data
 
 ---
 
-## 03. 💄 Aayul Azhagu Academy
+## 04. 💄 Aayul Azhagu Academy
 
 ### `Django` · `Python` · `SQL` · `Bootstrap`
 
