@@ -180,6 +180,63 @@ I also have hands-on experience developing **Django and MySQL-based applications
 
 # 🚀 Featured Projects
 
+## 01. 🏏 IPL Player Performance Analytics V2
+
+### `Python` · `Django` · `MySQL` · `Scikit-Learn` · `TensorFlow/Keras` · `Machine Learning` · `Deep Learning`
+
+An integrated cricket analytics and player-performance prediction platform for exploring historical IPL data, analyzing player performance, comparing players, and generating batting and bowling estimates.
+
+**Key capabilities**
+- Historical player profiles, search, and comparison
+- Match exploration and match details
+- Batting analytics, bowling analytics, and exploratory data analysis
+- Separate ML and DL inference workflows
+- Model comparison and prediction pages in a Django application
+
+**Machine learning artifacts**
+- Batting production inference uses saved Joblib artifacts.
+- Bowling production inference uses a saved wickets model.
+- The exact algorithm and feature definitions should be taken from the training code, not inferred from artifact filenames.
+
+**Deep learning targets**
+
+| Batting targets | Bowling targets |
+|---|---|
+| Balls faced | Economy rate |
+| Dismissals | Legal balls |
+| Fours | Runs conceded |
+| Runs scored | Wickets |
+| Sixes | |
+| Strike rate | |
+
+Ten saved TensorFlow/Keras target models are organized through a model registry, with preprocessing/scaling artifacts and inverse transformation during inference.
+
+**Architecture**
+
+```text
+Existing MySQL Database
+          ↓
+       Django ORM
+          ↓
+ Analytics & Data Processing
+          ↓
+  ML / DL Inference Services
+          ↓
+ Predictions & Model Comparison
+          ↓
+       Django UI
+```
+
+**Evaluation concepts:** MAE, RMSE, and R². Successful inference confirms that the workflow runs; it does not by itself establish predictive accuracy or generalization. Predictions are estimates, not guaranteed match outcomes.
+
+**Technologies:** `Python` `Django` `MySQL` `Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `Keras` `Joblib`
+
+🔗 **[View repository](https://github.com/vkvinodhkumar/ipl-player-performance-v2)**
+
+---
+
+## 02. 🚨 Crowd Density Prediction & Optimization
+
 ## 01. 🚨 Crowd Density Prediction & Optimization
 
 ### `Python` · `Pandas` · `Scikit-Learn` · `Power BI` · `Machine Learning`
